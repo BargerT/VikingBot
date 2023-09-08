@@ -16,6 +16,7 @@ Refer to [SSCAI Tutorial](https://sscaitournament.com/index.php?action=tutorial)
 * The Java implementation we use: https://github.com/JavaBWAPI/JBWAPI
 * It's Documentation: https://javabwapi.github.io/JBWAPI/
 * The AI Planner Library we used: http://burlap.cs.brown.edu/
+* The IEEE 2020 Conference Published Paper: http://bit.ly/Viking-Bot
 * ALSO, we have generated java docs for the project you can read.
 
 
